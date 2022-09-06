@@ -1,0 +1,19 @@
+{
+    "JOBS": [
+        {
+            "id": "1",
+            "name": "작업1",
+            "url": "/biz/get"
+        },
+        {
+            "id": "2",
+            "name": "post 작업",
+            "url": "/biz/post"
+        },
+        {
+            "id": "3",
+            "name": "all",
+            "url":  "/biz/pim/alldata"
+        }
+    ]
+}
